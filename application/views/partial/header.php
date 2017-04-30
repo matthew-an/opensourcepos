@@ -28,7 +28,6 @@
 		<link rel="stylesheet" type="text/css" href="css/receipt.css"/>
 		<link rel="stylesheet" type="text/css" href="css/register.css"/>
 		<link rel="stylesheet" type="text/css" href="css/reports.css"/>
-		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 		<!-- end css template tags -->
 		<!-- bower:js -->
 		<script src="bower_components/jquery/dist/jquery.js"></script>
@@ -69,12 +68,11 @@
 		<link rel="stylesheet" media="print" href="dist/print.css" type="text/css" />
 		<![endif]-->
 		<!-- start mincss template tags -->
-		<link rel="stylesheet" type="text/css" href="dist/jquery-ui.css"/>
-		<link rel="stylesheet" type="text/css" href="dist/opensourcepos.min.css?rel=19bc919eca"/>
-		<link rel="stylesheet" type="text/css" href="dist/style.css"/>
+		<link rel="stylesheet" type="text/css" href="dist/opensourcepos.min.css?rel=5d27870b02"/>
+		<link rel="stylesheet" type="text/css" href="dist/jquery-ui/jquery-ui.min.css"/>
 		<!-- end mincss template tags -->
 		<!-- start minjs template tags -->
-		<script type="text/javascript" src="dist/opensourcepos.min.js?rel=df78eb75fa"></script>
+		<script type="text/javascript" src="dist/opensourcepos.min.js?rel=2e03c2c426"></script>
 		<!-- end minjs template tags -->
 	<?php endif; ?>
 
